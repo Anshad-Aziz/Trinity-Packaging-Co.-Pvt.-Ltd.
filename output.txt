@@ -1,0 +1,4 @@
+Invoice_ID → CSV column 'Invoice_ID' may refer to:
+Vendor_Name → 'Vendor_Name'
+Amount → amount
+Payment_Date → 'Payment_Date' may refer to:
