@@ -1,4 +1,4 @@
-Invoice_ID → CSV column 'Invoice_ID' may refer to:
-Vendor_Name → 'Vendor_Name'
-Amount → amount
-Payment_Date → 'Payment_Date' may refer to:
+Invoice_ID → likely a unique transaction identifier
+Vendor_Name → the supplier or vendor associated with the transaction
+Amount → monetary value of the transaction
+Payment_Date → date on which the payment was made
